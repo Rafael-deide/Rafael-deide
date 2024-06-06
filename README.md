@@ -1,16 +1,13 @@
-## Hi there 👋
+### Boas vindas ao meu perfil ❤️
 
-<!--
-**Rafael-deide/Rafael-deide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Rafael
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+### Você pode entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001107833097SP@al.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/LgeG3N8ZcB0AAAAC/%D0%BC%D0%B0%D1%88%D0%B0-%D1%85%D0%BB%D0%BE%D0%BF%D0%B0%D0%B5%D1%82.gif)
